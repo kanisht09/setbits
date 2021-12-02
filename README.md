@@ -1,3 +1,3 @@
 # Set Bits
 
-### To find the no of set bits in a number
+### To find the number of set bits in a number
